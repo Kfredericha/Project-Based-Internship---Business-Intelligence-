@@ -15,6 +15,9 @@ The dataset contains 4 tables:
 - Product
 - ProductCategory
 
+## Tools
+- Google Cloud Console
+- Looker Studio
 
 ## Project Objective
 The primary goal of this project was to transform raw transactional data into actionable business insights through the following objectives:
